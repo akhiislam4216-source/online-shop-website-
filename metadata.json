@@ -1,0 +1,6 @@
+{
+  "name": "Friend Shop",
+  "description": "A premium, professional online shopping experience - Shopping Made Friendly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
